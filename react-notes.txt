@@ -1,0 +1,22 @@
+npx - forma de baixar o pacote de forma temporária para a memória do computador
+
+
+Documentação do pacote create react
+https://create-react-app.dev/
+
+Documentação do react oficial
+https://reactjs.org/docs/getting-started.html
+
+Sobre paradigma:
+No mercado de trabalho, é utilizado mais a programação a funcional do que orientação a objetos
+
+JSX - JavaScript com tags/elementos xml
+
+Bibliotecas para estilização
+REACTSTRAP - Bootstrap adaptado para React
+MUI - (MATERIAL USER INTERFACE)
+
+
+ferramentas vs code para auxiliar no estilo:
+ES7+ React/Redux/React-Native snippets
+prettier
