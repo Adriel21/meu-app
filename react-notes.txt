@@ -13,10 +13,21 @@ No mercado de trabalho, é utilizado mais a programação a funcional do que ori
 JSX - JavaScript com tags/elementos xml
 
 Bibliotecas para estilização
-REACTSTRAP - Bootstrap adaptado para React
+REACTBOOTSTRAP - Bootstrap adaptado para React
 MUI - (MATERIAL USER INTERFACE)
 
 
 ferramentas vs code para auxiliar no estilo:
 ES7+ React/Redux/React-Native snippets
 prettier
+
+
+index.css ou app.css são utilizados para configurações gerais
+
+sites para consulta de css:
+web.dev
+
+
+
+
+Biblioteca - Styled Components e extensão styled component
