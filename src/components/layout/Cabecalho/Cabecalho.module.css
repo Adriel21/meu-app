@@ -1,0 +1,22 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.nav{
+    background-color: slateblue;
+    line-height: 40px;
+}
+
+a{
+    margin-right: 100px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    
+}

@@ -1,6 +1,7 @@
+import estilosCabecalho from "./Cabecalho.module.css";
 const Menu = () => {
     return(
-        <nav>
+        <nav className={estilosCabecalho.nav}>
           <ul>
             <a href="">Home</a>
             <a href="">Produtos</a>
