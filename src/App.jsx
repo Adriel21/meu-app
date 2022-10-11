@@ -1,6 +1,8 @@
 import Cabecalho from "./components/layout/Cabecalho";
 import Conteudo from "./components/layout/Conteudo";
 import Rodape from "./components/layout/Rodape";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 // As funções que vão funcionar como componentes e, arquivos também, devem começar com letra maíuscula
 

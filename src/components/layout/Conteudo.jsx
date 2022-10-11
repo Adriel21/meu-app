@@ -5,7 +5,7 @@ return (
     <main>
     <section>
       {/* comentário no jsx */}
-      <h2>Conteúdo do site</h2>
+      <h2 class="text-center">Conteúdo do site</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus sed ab hic modi corporis obcaecati totam sint omnis illo soluta.</p>
 
      <Artigo/>
