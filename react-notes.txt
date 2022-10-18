@@ -1,5 +1,5 @@
 npx - forma de baixar o pacote de forma temporária para a memória do computador
-
+npm start - inicia o servidor
 
 Documentação do pacote create react
 https://create-react-app.dev/
