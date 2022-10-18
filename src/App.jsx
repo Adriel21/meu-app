@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
       <Cabecalho />
-      <Conteudo />
+      <Conteudo/>
       <Rodape />
     </>
   );
